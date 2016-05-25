@@ -1,2 +1,2 @@
 # baby-steps
-doing the exercise
+trying to do the excercise
